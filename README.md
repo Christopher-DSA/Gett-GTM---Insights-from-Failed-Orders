@@ -10,6 +10,11 @@
 <br />
 </div>
 
+#### Table of contents
+1. [What is this repo about?](#Firstly,-What-is-Gett?)
+2. [How to run this code](#how-to-run-this-code)
+3. [Wannna run a real-world data analysis?](#wannna-build-real-world-ml-products)
+
 ### Firstly, What is *Gett*?:
 
 **Gett offers a seamless, efficient ride-hailing experience specifically designed to meet the unique needs of corporate clients. Their tailored features make business travel a breeze, ensuring companies can focus on what truly matters.** 
