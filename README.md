@@ -3,6 +3,13 @@
     <i>Christopher Martinez Demmans</i>
 </div>
 
+<div align="center">
+    <sub>Let's connect 🤗</sub>
+    <br />
+   • <a href="https://www.linkedin.com/in/christopher-martinez-demmans-3a1594291/">LinkedIn</a> •
+<br />
+</div>
+
 ### Firstly, What is *Gett*?:
 
 **Gett offers a seamless, efficient ride-hailing experience specifically designed to meet the unique needs of corporate clients. Their tailored features make business travel a breeze, ensuring companies can focus on what truly matters.** 
