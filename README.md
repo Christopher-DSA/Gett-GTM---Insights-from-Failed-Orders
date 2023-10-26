@@ -1,4 +1,7 @@
-# Gett-GTM-Insights-from-Failed-Orders
+<div align="center">
+    <h1>Insights From Failed Orders at Gett</h1>
+    <i>Christopher Martinez Demmans</i>
+</div>
 
 ### Firstly, What is *Gett*?:
 
