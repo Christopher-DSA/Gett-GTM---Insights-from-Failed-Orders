@@ -2,7 +2,7 @@
 
 ### Firstly, What is *Gett*?:
 
-**Gett offers a seamless, efficient ride-hailing experience specifically designed to meet the unique needs of corporate clients, darling~! Their tailored features make business travel a breeze, ensuring companies can focus on what truly matters** 
+**Gett offers a seamless, efficient ride-hailing experience specifically designed to meet the unique needs of corporate clients. Their tailored features make business travel a breeze, ensuring companies can focus on what truly matters** 
 
 [Ghett Offical Website](https://www.gett.com/uk/)
 
