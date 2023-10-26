@@ -4,7 +4,7 @@
 
 **Gett offers a seamless, efficient ride-hailing experience specifically designed to meet the unique needs of corporate clients. Their tailored features make business travel a breeze, ensuring companies can focus on what truly matters** 
 
-To see their stunning website click below.
+To see their stunning website click here:
 [Ghett Offical Website](https://www.gett.com/uk/)
 
 ---
