@@ -12,7 +12,7 @@
 
 #### Table of contents
 1. [What is this repo about?](#firstly-what-is-gett)
-2. [How to run this code](#how-to-run-this-code)
+2. [The Analysis Process](#this-project-is-currently-in-progress)
 3. [Wannna run a real-world data analysis?](#wannna-build-real-world-ml-products)
 
 ### Firstly, What is *Gett*?:
