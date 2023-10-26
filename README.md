@@ -17,7 +17,7 @@ Dataset: Two CSVs detailing orders and offers.
 
 Results: I pinpointed peak failure times and causes, suggested actionable insights for system improvements. Enhanced data visualization with geo-mapping.
 ```
-## This Project is currently in progress
+## This Project is currently in progress:
 
 ---
 
