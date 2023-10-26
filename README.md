@@ -1,7 +1,7 @@
 # Gett-GTM-Insights-from-Failed-Orders
 
 ### Firstly, What is Gett?:
-[Ghett Offical Website](https://www.gett.com/blog/getts-gtm-platform-enables-enhanced-passenger-safety-protocols/)
+[Ghett Offical Website](https://www.gett.com/uk/)
 
 ---
 ```
