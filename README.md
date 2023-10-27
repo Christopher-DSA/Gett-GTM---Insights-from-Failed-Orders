@@ -41,6 +41,9 @@ Results: I pinpointed peak failure times and causes, suggested actionable insigh
 3. Answer the following questions about the data:
 
 - a. Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment, and reasons for order rejection. Analyze the resulting plot. Which category has the highest number of orders?
+![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/3f70c38a-f276-441e-b532-77ab585c445e)
+
+![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/70a7d0a8-e98f-47ff-a34f-a6e1cd0e6027)
 
 - b. Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
 
