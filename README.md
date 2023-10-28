@@ -45,6 +45,9 @@ Results: I pinpointed peak failure times and causes, suggested actionable insigh
 
 ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/70a7d0a8-e98f-47ff-a34f-a6e1cd0e6027)
 
+![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/55a4e967-f086-482e-bbc8-00456ec16524)
+
+
 -Orders where the customer cancelled and there was no driver assigned had the highest number of failed orders.
 
 
