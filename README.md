@@ -85,9 +85,11 @@ likely contributes to the increase in failed orders.
 
 . By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
 
-
+### Question 3:
 - c. Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
 
+### Question 4:
 - d. Plot the distribution of average ETA by hours. How can this plot be explained?
 
+### Question 5:
 - e. Hexagons: Using the h3 and folium packages, calculate how many sizes 8 hexes contain 80% of all orders from the original data sets and visualise the hexes, colouring them by the number of fails on the map.
