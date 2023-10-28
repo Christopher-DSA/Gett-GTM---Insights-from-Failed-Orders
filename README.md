@@ -47,10 +47,17 @@ Results: I pinpointed peak failure times and causes, suggested actionable insigh
 
 ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/55a4e967-f086-482e-bbc8-00456ec16524)
 
+In order of most failed orders:
+1. Customer Cancelled/No Driver
+2. System Cancelled/No Driver
+3. Customer Cancelled/Driver Assigned
+4. No Cancelled/Driver Assigned
 
--Orders where the customer cancelled and there was no driver assigned had the highest number of failed orders.
+. Likely Cause: 
 
+. Potential Solution: 
 
+.By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
 - b. Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
   ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/0014b22a-86ef-43a0-a838-9a6d9d564c2f)
 
@@ -64,13 +71,13 @@ likely contributes to the increase in failed orders.
 
 
 ### Peak Work Hours: The Daily Grind (8 AM & 5 PM)
-.Observation: Another group of failures happens around typical work start and end times, mainly at around 8 AM and 5 PM.
+. Observation: Another group of failures happens around typical work start and end times, mainly at around 8 AM and 5 PM.
 
-.Likely Cause: A large number of commuters are requesting rides simultaneously, overwhelming the system and leading to failed orders.
+. Likely Cause: A large number of commuters are requesting rides simultaneously, overwhelming the system and leading to failed orders.
 
-.Potential Solution: Implement a ride-pooling system or staggered pricing to better distribute the demand across multiple drivers and timeslots.
+. Potential Solution: Implement a ride-pooling system or staggered pricing to better distribute the demand across multiple drivers and timeslots.
 
-.By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction, nya
+. By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
 
 
 - c. Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
