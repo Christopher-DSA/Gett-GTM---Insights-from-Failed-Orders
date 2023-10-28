@@ -45,6 +45,9 @@ Results: I pinpointed peak failure times and causes, suggested actionable insigh
 
 ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/70a7d0a8-e98f-47ff-a34f-a6e1cd0e6027)
 
+-Orders where the customer cancelled and there was no driver assigned had the highest number of failed orders.
+
+
 - b. Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
   ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/0014b22a-86ef-43a0-a838-9a6d9d564c2f)
 
