@@ -60,7 +60,7 @@ In order of most failed orders:
 ---
 ---
 
-.By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
+By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
 - b. Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
   ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/0014b22a-86ef-43a0-a838-9a6d9d564c2f)
 
