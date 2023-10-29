@@ -87,7 +87,18 @@ likely contributes to the increase in failed orders.
 . By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
 
 ### Question 3:
-- c. Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
+- c. Plot the average time to cancellation with and without driver. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
+  
+![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/d4479978-6dae-4ae1-a86c-f34e8559b5fb)
+
+. The time it takes for clients to cancel their orders appears to be consistent, whether or not a driver has been assigned.
+
+. Intriguingly, the cancellation rate soars by more than 200% when clients are not paired with a driver, compared to when they are.
+
+. In the data set, 2,286 orders failed without a driver assignment, while a noticeably higher 4,429 orders failed when a driver was indeed assigned.
+
+. Assigning a driver to a client significantly reduces the likelihood of the client cancelling their order, making for less cancellations.
+
 
 ### Question 4:
 - d. Plot the distribution of average ETA by hours. How can this plot be explained?
