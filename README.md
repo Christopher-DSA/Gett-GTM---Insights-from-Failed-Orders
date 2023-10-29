@@ -73,6 +73,8 @@ By identifying these patterns and their underlying causes, targeted strategies c
   ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/0014b22a-86ef-43a0-a838-9a6d9d564c2f)
 
 ### Early Hour Failures: Night Owls & Early Birds (9 PM - 2 AM)
+
+---
 . Observation: A spike in ride failures occurs during late-night and early morning hours, specifically between 9 PM and 2 AM.
 
 . Likely Cause: Most Gett drivers may have clocked out for the day, leading to a scarcity of available cars. This mismatch between supply and demand 
@@ -82,6 +84,8 @@ likely contributes to the increase in failed orders.
 
 
 ### Peak Work Hours: The Daily Grind (8 AM & 5 PM)
+
+---
 . Observation: Another group of failures happens around typical work start and end times, mainly at around 8 AM and 5 PM.
 
 . Likely Cause: A large number of commuters are requesting rides simultaneously, overwhelming the system and leading to failed orders.
