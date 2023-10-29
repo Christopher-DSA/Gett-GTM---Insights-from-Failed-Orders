@@ -53,10 +53,12 @@ In order of most failed orders:
 3. Customer Cancelled/Driver Assigned
 4. No Cancelled/Driver Assigned
 
-. Likely Cause: 
+- Likely Cause:
+. The higher rate of cancellations when no driver is assigned likely stems from a shortage of drivers to meet demand, both from the customer's and the system's perspective.
 
-. Potential Solution: 
-
+- Potential Solution:
+. Consider offering bonuses to drivers who operate during peak hours as an incentive to meet the elevated demand.
+  
 ---
 ---
 
