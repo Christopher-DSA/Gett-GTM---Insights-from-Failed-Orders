@@ -90,7 +90,9 @@ likely contributes to the increase in failed orders.
 
 . By identifying these patterns and their underlying causes, targeted strategies can be developed to improve service reliability and customer satisfaction
 
-### Question 3:
+## Question 3:
+
+---
 - c. Plot the average time to cancellation with and without driver. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
   
 ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/d4479978-6dae-4ae1-a86c-f34e8559b5fb)
