@@ -106,7 +106,7 @@ likely contributes to the increase in failed orders.
 . Assigning a driver to a client significantly reduces the likelihood of the client cancelling their order, making for less cancellations.
 
 ### Question 4:
-- e. Hexagons: Using the h3 and folium packages, calculate how many sizes 8 hexes contain 80% of all orders from the original data sets and visualise the hexes, colouring them by the number of fails on the map.
+Hexagons: Using the h3 and folium packages, calculate how many sizes 8 hexes contain 80% of all orders from the original data sets and visualise the hexes, colouring them by the number of fails on the map.
 
 Visualization of failed order density.
 ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/b771be41-855f-4906-bfeb-74493203f3e9)
