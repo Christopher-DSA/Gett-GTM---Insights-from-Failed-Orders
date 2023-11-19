@@ -113,4 +113,5 @@ Visualization of failed order density.
 
 ![image](https://github.com/Christopher-DSA/Gett-GTM---Insights-from-Failed-Orders/assets/132075292/8e75d17a-799c-4c30-9024-4e30a6a1987b)
 
+Reading, England has the most failed orders.
 
