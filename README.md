@@ -115,3 +115,4 @@ Visualization of failed order density.
 
 A town called Reading in England has the most failed orders.
 
+The visualization indicates that Reading has a higher-than-average rate of ride service interruptions. It's important to understand why customers there are experiencing difficulties. The data points to a trend, but the reasons behind it are not yet clear. It could be anything from not enough cars during the busiest hours to unexpected local issues that we're not aware of yet. Our next steps are to look closely at the times when these problems occur and talk to our drivers and customers in the area to get their firsthand perspectives. By gathering more information, we will pinpoint the root causes and develop a plan to improve our service.
